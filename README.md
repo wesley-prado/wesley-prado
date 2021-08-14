@@ -39,4 +39,4 @@ Current rank:
 
 ### Gaming zone
 
-<a href="https://steamcommunity.com/id/dystopic-blax/">![steam badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
+<a href="https://steamcommunity.com/id/dystopic-blax/" target="_blank">![steam badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
