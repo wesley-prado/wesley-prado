@@ -6,14 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-prado&&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&card_width=495&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
+* 🏡 Currently Working from home as __Salesforce Developer Trainee__ at __Nèscara__.
 * 🌱 I’m currently learning: __Apex and Lightning Web Components__
 * 😄 Pronouns: __He/Him__
-* 📫 How to reach me:
-
-<a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href = "mailto: wprado_1424@gmail.com">![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href = "mailto: wesley_1424@hotmail.com">![hotmail badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-
 
 ### Techs
 ![ts badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,6 +21,13 @@
 ![nodejs badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mysql badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![md badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Contacts
+
+<a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "mailto: wprado_1424@gmail.com">![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href = "mailto: wesley_1424@hotmail.com">![hotmail badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+
 
 ### Gaming zone
 
