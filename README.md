@@ -1,5 +1,5 @@
 # Welcome to my github profile !!
-### My name is Wesley Prado. I'm a System Analysis and Development student and Salesforce Developer Trainee ☁️
+### My name is Wesley Prado, future Software Engineer / Salesforce Developer ☁️🖥️
 
 ![Wesley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-prado&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&show_icons=true&include_all_commits=true)
 
