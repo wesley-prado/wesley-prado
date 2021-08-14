@@ -23,6 +23,13 @@
 ![mongodb badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgres badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+### Salesforce Trailhead
+__Profile:__ https://trailblazer.me/id/wesprado
+
+Current rank:
+
+![rank badge](https://trailhead.salesforce.com/assets/ranks/adventurer-7ef27eea9542ac4d20cecd3a8ac9e70e3e09e7d90ac062ea7c92971face2f277.png)
 ### Contacts
 
 <a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
