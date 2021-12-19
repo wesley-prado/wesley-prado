@@ -35,8 +35,3 @@ Current rank:
 <a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "mailto: wprado_1424@gmail.com">![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href = "mailto: wesley_1424@hotmail.com">![hotmail badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-
-
-### Gaming zone
-
-<a href="https://steamcommunity.com/id/dystopic-blax/" target="_blank">![steam badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
