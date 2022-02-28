@@ -7,7 +7,7 @@
 
 ### About me
 * 🏡 Currently Working from home as __Salesforce Developer__ at __Nèscara__.
-* 🌱 I’m currently learning: __Apex and Lightning Web Components__
+* 🌱 I’m currently learning: __Apex and Cordova__
 * 😄 Pronouns: __He/Him__
 
 ### Techs
