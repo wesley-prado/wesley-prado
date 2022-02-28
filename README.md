@@ -29,7 +29,7 @@ __Profile:__ https://trailblazer.me/id/wesprado
 
 Current rank:
 
-![rank badge](https://trailhead.salesforce.com/assets/ranks/adventurer-7ef27eea9542ac4d20cecd3a8ac9e70e3e09e7d90ac062ea7c92971face2f277.png)
+![rank badge](https://trailhead.salesforce.com/assets/ranks/mountaineer-bca5476f603e6e831c6b7c16d1b81fd03a1aa256f2d1c9934fa08f0cb03b613f.png)
 ### Contacts
 
 <a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
