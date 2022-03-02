@@ -26,9 +26,10 @@
 
 ### Salesforce Trailhead
 __Profile:__ https://trailblazer.me/id/wesprado
+
 Certificates: 
 
-![Platform Developer I](https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000) 
+![Platform Developer I](https://i.imgur.com/nLEXX90.png)
 
 Current rank:
 
