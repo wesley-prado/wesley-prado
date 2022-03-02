@@ -26,7 +26,7 @@
 
 ### Salesforce Trailhead
 __Profile:__ https://trailblazer.me/id/wesprado
-
+Certificates: ![Platform Developer I](https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000) 
 Current rank:
 
 ![rank badge](https://trailhead.salesforce.com/assets/ranks/mountaineer-bca5476f603e6e831c6b7c16d1b81fd03a1aa256f2d1c9934fa08f0cb03b613f.png)
