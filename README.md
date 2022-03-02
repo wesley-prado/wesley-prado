@@ -11,6 +11,7 @@
 * 😄 Pronouns: __He/Him__
 
 ### Techs
+![salesforce badge](https://img.shields.io/badge/Salesforce-white?style=for-the-badge&logo=salesforce)
 ![ts badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![angularjs badge](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![react badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
