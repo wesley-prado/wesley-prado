@@ -1,13 +1,13 @@
 # Welcome to my github profile !!
-### Greetings! My name is Wesley Prado and i'm currently working as Salesforce Developer ☁️🖥️.
+### Greetings! My name is Wesley Prado and i'm currently working as Salesforce & Vlocity Developer ☁️🖥️.
 
 ![Wesley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-prado&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-prado&&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&card_width=495&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
-* 🏡 Currently Working from home as __Salesforce Developer__ at __Nèscara__.
-* 🌱 I’m currently learning: __Apex and Cordova__
+* 🏡 Currently Working from home as __Salesforce Developer__ at __LabsXD__.
+* 🌱 I’m currently learning: __OmniStudio__
 * 😄 Pronouns: __He/Him__
 
 ### Techs
