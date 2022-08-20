@@ -32,7 +32,7 @@ Certificates:
 
 Current rank:
 
-![rank badge](https://trailhead.salesforce.com/assets/ranks/mountaineer-bca5476f603e6e831c6b7c16d1b81fd03a1aa256f2d1c9934fa08f0cb03b613f.png)
+![rank badge](https://trailhead.salesforce.com/assets/ranks/mountaineer-d07930ec17a2879b83a22aab0e5572504c5a282b0407c6e7e692152a3753b113.png)
 ### Contacts
 
 <a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
