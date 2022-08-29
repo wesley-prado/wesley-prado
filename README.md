@@ -7,7 +7,7 @@
 
 ### About me
 * 🏡 Currently Working from home as __SFDC & Vlocity Developer__ at __LabsXD__.
-* 🌱 I’m currently learning: __OmniStudio__
+* 🌱 I’m currently learning: __OmniStudio, TDD, Clean Code, Clean Architecture & Algorithms__
 * 😄 Pronouns: __He/Him__
 
 ### Techs
