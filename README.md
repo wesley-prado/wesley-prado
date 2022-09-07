@@ -29,6 +29,7 @@ __Profile:__ https://trailblazer.me/id/wesprado
 Certificates: 
 
 ![Platform Developer I](https://i.imgur.com/nLEXX90.png)
+![OmniStudio Developer](https://i.imgur.com/yoLwTkF.png)
 
 Current rank:
 
