@@ -26,12 +26,13 @@ __Profile:__ https://trailblazer.me/id/wesprado
 
 Certificates: 
 
+![Javascript Developer I]()
 ![Platform Developer I](https://i.imgur.com/nLEXX90.png)
 ![OmniStudio Developer](https://i.imgur.com/yoLwTkF.png)
 
 Current rank:
 
-![rank badge](https://trailhead.salesforce.com/assets/ranks/mountaineer-d07930ec17a2879b83a22aab0e5572504c5a282b0407c6e7e692152a3753b113.png)
+![rank badge](https://trailhead.salesforce.com/assets/ranks/expeditioner-6e0b45da2ccf45ffca41862e29738848fa8db9e4d548b89c8462cdef0ae35e81.png)
 ### Contacts
 
 <a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
