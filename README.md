@@ -32,7 +32,7 @@ Certificates:
 
 Current rank:
 
-![rank badge](https://trailhead.salesforce.com/assets/ranks/expeditioner-6e0b45da2ccf45ffca41862e29738848fa8db9e4d548b89c8462cdef0ae35e81.png)
+![rank badge](https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png)
 ### Contacts
 
 <a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
