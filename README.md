@@ -21,7 +21,7 @@
 ![postgres badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Roadmap.sh
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643b2ae6e2725773748e77a5?variant=dark)](https://roadmap.sh)
 
 ### Salesforce Trailhead
 __Profile:__ https://trailblazer.me/id/wesprado
