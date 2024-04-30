@@ -10,15 +10,15 @@
 
 ### Techs
 ![salesforce badge](https://img.shields.io/badge/Salesforce-white?style=for-the-badge&logo=salesforce)
+![spring boot badge](https://img.shields.io/badge/Spring%20Boot-222?style=for-the-badge&logo=springboot&labelColor=333)
+![hibernate badge](https://img.shields.io/badge/Hibernate-222?style=for-the-badge&logo=hibernate&labelColor=%2359666C)
+![mysql badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![javascript badge](https://img.shields.io/badge/Javascript-111?style=for-the-badge&logo=javascript)
+![ts badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![cordova badge](https://img.shields.io/badge/Apache%20Cordova-333333?style=for-the-badge&logo=apache-cordova)
 ![sqlite badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=blue)
-![ts badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![angularjs badge](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![react badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![mysql badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![mongodb badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgres badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Roadmap.sh
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643b2ae6e2725773748e77a5?variant=dark&roadmaps=java%2Cjavascript%2Csoftware-design-architecture%2Cbackend)](https://roadmap.sh)
