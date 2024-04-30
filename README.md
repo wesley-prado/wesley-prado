@@ -10,7 +10,7 @@
 
 ### Techs
 ![salesforce badge](https://img.shields.io/badge/Salesforce-white?style=for-the-badge&logo=salesforce)
-![javascript badge](https://img.shields.io/badge/Javascript-111?style=for-the-badge&logo=javascript)
+![javascript badge](https://img.shields.io/badge/Javascript-222?style=for-the-badge&logo=javascript)
 ![spring boot badge](https://img.shields.io/badge/Spring%20Boot-222?style=for-the-badge&logo=springboot&labelColor=333)
 ![hibernate badge](https://img.shields.io/badge/Hibernate-222?style=for-the-badge&logo=hibernate&labelColor=%2359666C)
 ![mysql badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
