@@ -40,5 +40,5 @@ Current rank:
 ![rank badge](https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png)
 ### Contacts
 
-<a href = "https://www.linkedin.com/in/wesley-santana-prado/">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "https://www.linkedin.com/in/wesley-prado-dev/" target="_blank">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "mailto: wesleyprado.dev@gmail.com">![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
