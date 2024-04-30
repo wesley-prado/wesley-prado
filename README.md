@@ -5,7 +5,7 @@
 
 ### About me
 * 🏡 Currently Working from home as __Salesforce Developer__ at __Globant__.
-* 🌱 I’m currently learning: __Clean Code, Design Patterns & Algorithms__
+* 🌱 I’m currently learning: __Spring Boot__
 * 😄 Pronouns: __He/Him__
 
 ### Techs
