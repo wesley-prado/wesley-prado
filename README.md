@@ -14,6 +14,7 @@
 ![spring boot badge](https://img.shields.io/badge/Spring%20Boot-222?style=for-the-badge&logo=springboot&labelColor=333)
 ![hibernate badge](https://img.shields.io/badge/Hibernate-222?style=for-the-badge&logo=hibernate&labelColor=%2359666C)
 ![mysql badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![docker badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=fff)
 ![ts badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![cordova badge](https://img.shields.io/badge/Apache%20Cordova-333333?style=for-the-badge&logo=apache-cordova)
 ![sqlite badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=blue)
