@@ -1,8 +1,5 @@
 # Welcome to my github profile !!
 ### Greetings! My name is Wesley Prado and i'm currently working as Salesforce Developer ☁️🖥️.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-prado&&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&card_width=495&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About me
 * 🏡 Currently Working from home as __Salesforce Developer__ at __[Globant](https://www.globant.com/pt-br)__.
 * 🌱 I’m currently learning: __Java Development__
@@ -20,6 +17,9 @@
 ![sqlite badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=blue)
 ![react badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-prado&&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&card_width=495&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Roadmap.sh
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643b2ae6e2725773748e77a5?variant=dark&roadmaps=java%2Cjavascript%2Csoftware-design-architecture%2Cbackend)](https://roadmap.sh)
