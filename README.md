@@ -13,6 +13,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![docker badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=fff)
+![Postman badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 #### Front-end
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -37,18 +38,19 @@
 ### Salesforce Trailhead
 __Profile:__ https://trailblazer.me/id/wesprado
 
-Certificates: 
-
+#### Certificates: 
 ![Platform Developer II](https://i.imgur.com/BKWwYaz.png)
 ![Platform Developer I](https://i.imgur.com/9sRfQm3.png)
 ![Javascript Developer I](https://i.imgur.com/7apqV0X.png)
 ![OmniStudio Developer](https://i.imgur.com/t3hWyLO.png)
 ![Associate](https://i.imgur.com/PxWukvX.png)
 
-Current rank:
-
+### Current Trailhead Rank:
 ![rank badge](https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png)
 ### Contacts
 
 <a href = "https://www.linkedin.com/in/wesley-prado-dev/" target="_blank">![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "mailto: wesleyprado.dev@gmail.com">![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
