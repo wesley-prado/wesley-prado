@@ -6,20 +6,30 @@
 * 😄 Pronouns: __He/Him__
 
 ### Techs
-![salesforce badge](https://img.shields.io/badge/Salesforce-white?style=for-the-badge&logo=salesforce)
-![javascript badge](https://img.shields.io/badge/Javascript-222?style=for-the-badge&logo=javascript)
-![spring boot badge](https://img.shields.io/badge/Spring%20Boot-222?style=for-the-badge&logo=springboot&labelColor=333)
-![hibernate badge](https://img.shields.io/badge/Hibernate-222?style=for-the-badge&logo=hibernate&labelColor=%2359666C)
+
+#### Back-end
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![docker badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=fff)
+
+#### Front-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![javascript badge](https://img.shields.io/badge/Javascript-222?style=for-the-badge&logo=javascript)
 ![ts badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![cordova badge](https://img.shields.io/badge/Apache%20Cordova-333333?style=for-the-badge&logo=apache-cordova)
-![sqlite badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=blue)
-![react badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nodejs badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### OS
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+#### Salesforce
+![salesforce badge](https://img.shields.io/badge/Salesforce%20Developer-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-prado&&text_color=f2f2f2&icon_color=f70a81&title_color=ff0080&border_color=ff0080&bg_color=25,160754,540742&card_width=495&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Roadmap.sh
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643b2ae6e2725773748e77a5?variant=dark&roadmaps=java%2Cjavascript%2Csoftware-design-architecture%2Cbackend)](https://roadmap.sh)
