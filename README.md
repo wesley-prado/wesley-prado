@@ -1,7 +1,7 @@
 # Welcome to my github profile !!
 ### Greetings! My name is Wesley Prado and i'm currently working as Salesforce Developer ☁️🖥️.
 ### About me
-* 🏡 Currently Working from home as __Salesforce Developer__ at __[Globant](https://www.globant.com/pt-br)__.
+* 🏡 Currently Working from home as __Sr Salesforce Developer__
 * 🌱 I’m currently learning: __Java Development__
 * 😄 Pronouns: __He/Him__
 
