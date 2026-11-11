@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=wesley-prado&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55308332%3Fu%3Dd16e93d4d4465acc6b947cdd4e65ccc6f5785e90%26v%3D4" alt="wesley-prado hero visual" />
 </p>
 
-<p align="center"><b>Wesley Prado</b> · Frontend or full-stack engineer<br/><sub>Salesforce Developer ☁️</sub></p>
+<p align="center"><b>Wesley Prado</b> · Full-stack engineer<br/><sub>Salesforce Developer ☁️</sub></p>
 
 <p align="center"><a href="https://github.com/wesley-prado">GitHub</a></p>
 
