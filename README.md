@@ -23,9 +23,11 @@
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Salesforce Software Engineer · Apex · JavaScript · Java</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>25 repositories · 3 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>74 contributions · 22 active days</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>75 contributions · 23 active days</p></td>
 </tr>
 </table>
+
+<p><sub>Salesforce Developer</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -33,7 +35,7 @@
 <tr>
 <td width="25%" align="center"><strong>25</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>74</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>75</strong><br /><sub>Contributions</sub></td>
 <td width="25%" align="center"><strong>16</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
@@ -51,8 +53,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=wesley-prado&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55308332%3Fu%3Dd16e93d4d4465acc6b947cdd4e65ccc6f5785e90%26v%3D4&repos=wesley-prado%2FMoviee-backend%2Cwesley-prado%2Fjava-prompt-chess%2Cwesley-prado%2Fwallpaper-wavygrass-clock%2Cwesley-prado%2FDesafio-Nginx-com-Node.js&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=wesley-prado&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55308332%3Fu%3Dd16e93d4d4465acc6b947cdd4e65ccc6f5785e90%26v%3D4&repos=wesley-prado%2FMoviee-backend%2Cwesley-prado%2Fjava-prompt-chess%2Cwesley-prado%2Fwallpaper-wavygrass-clock%2Cwesley-prado%2FDesafio-Nginx-com-Node.js&v=recruiter-projects-1&mode=dark" width="100%" alt="Wesley Prado selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=wesley-prado&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55308332%3Fu%3Dd16e93d4d4465acc6b947cdd4e65ccc6f5785e90%26v%3D4&repos=wesley-prado%2FMoviee-backend%2Cwesley-prado%2Fwallpaper-wavygrass-clock%2Cwesley-prado%2FDesafio-Nginx-com-Node.js&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=wesley-prado&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F55308332%3Fu%3Dd16e93d4d4465acc6b947cdd4e65ccc6f5785e90%26v%3D4&repos=wesley-prado%2FMoviee-backend%2Cwesley-prado%2Fwallpaper-wavygrass-clock%2Cwesley-prado%2FDesafio-Nginx-com-Node.js&v=recruiter-projects-1&mode=dark" width="100%" alt="Wesley Prado selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -66,9 +68,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/wesley-prado/java-prompt-chess">java-prompt-chess</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/wesley-prado/wallpaper-wavygrass-clock">wallpaper-wavygrass-clock</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/wesley-prado/Desafio-Nginx-com-Node.js">Desafio-Nginx-com-Node.js</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/wesley-prado/wallpaper-wavygrass-clock">wallpaper-wavygrass-clock</a></h3><p>Wavy grass - Weekday and Time (Wallpaper Engine)</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/wesley-prado/Desafio-Nginx-com-Node.js">Desafio-Nginx-com-Node.js</a></h3><p>Este projeto é um desafio para criar um proxy reverso Nginx para um servidor Node.js</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
